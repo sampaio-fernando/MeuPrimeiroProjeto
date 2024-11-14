@@ -12,3 +12,4 @@ C:\Users\2023202060041\Documents\POO\MeuPrimeiroProjeto\obj\Debug\net8.0\refint\
 C:\Users\2023202060041\Documents\POO\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.pdb
 C:\Users\2023202060041\Documents\POO\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.genruntimeconfig.cache
 C:\Users\2023202060041\Documents\POO\MeuPrimeiroProjeto\obj\Debug\net8.0\ref\MeuPrimeiroProjeto.dll
+C:\Users\2023202060041\Documents\POO\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.sourcelink.json
